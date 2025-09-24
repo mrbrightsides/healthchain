@@ -34,6 +34,20 @@ Menjadikan rekam medis digital yang berdaulat dengan akses berbasis izin (consen
 
 ---
 
+## 🧰 Workflow
+
+```mermaid
+flowchart TD
+    A["Patient"] --> B["Doctor Consultation"]
+    B --> C["Medical Record Entry"]
+    C --> D["Blockchain Verification"]
+    D --> E["Hospital / Clinic Database"]
+    E --> F["Insurance Provider"]
+    F --> A
+```
+
+---
+
 ## 🚀 Quickstart
 
 1. Clone repo
