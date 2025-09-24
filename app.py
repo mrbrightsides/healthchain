@@ -2,8 +2,7 @@ import streamlit as st
 import streamlit.components.v1 as components
 
 st.set_page_config(
-    page_title="HealthChain"
-",
+    page_title="HealthChain",
     page_icon="🏥",
     layout="wide"
 )
