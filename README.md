@@ -12,6 +12,12 @@
 
 [🌐 Website](https://rantai.elpeef.com) • [📖 Documentation](./FEATURES.md) • [🤖 AI Features](#-ai-intelligence-system) • [🏗️ Architecture](./ARCHITECTURE.md)
 
+[![Live Web App](https://img.shields.io/badge/Live%20Web-healthchain.elpeef.com-0D9488?style=for-the-badge&logo=vercel&logoColor=white)](https://healthchain.elpeef.com)
+
+[![Streamlit App](https://img.shields.io/badge/Streamlit%20Demo-healthchain.streamlit.app-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://healthchain.streamlit.app)
+
+[![SafeSpace Integration](https://img.shields.io/badge/Antibully%20Platform-safespace.elpeef.com-16A34A?style=for-the-badge&logo=leaflet&logoColor=white)](https://safespace.elpeef.com)
+
 </div>
 
 > For security and IP protection, the full production code is currently hosted privately. This repository demonstrates the project structure and documentation.
